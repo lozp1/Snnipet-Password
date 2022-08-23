@@ -1,2 +1,0 @@
-# Snnipet-Password
-Password (Hash)
