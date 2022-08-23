@@ -1,7 +1,5 @@
 <?php
-
 // Importar Conexión
-
 require 'includes/config/database.php';
 $db = conectarDB();
 
